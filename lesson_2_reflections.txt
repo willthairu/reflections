@@ -1,0 +1,7 @@
+Lesson Two reflections
+
+Qn - Uses of the staging area and difference from the working directory
+the staging area is where you can take file from the working
+directory so that you can prepare them for the repository
+
+the files need to be added systematically

@@ -1,0 +1,33 @@
+this are the few lessons 
+learn in the previous year not to
+be repeated in the new year.
+version control is a must have tool for 
+all the coders and reposistory guys
+
+Qn- easy access to older versions
+this allows that we see the history of a document,
+we are able to know the logic on the document
+
+Qn - importance ofchoosing our own commits
+this is put you in control of which directions the code will take and
+also 
+
+Qn - Git Commits
+Git commits allow for multiple files to be tracked together because they are
+related. Google docs will have a set of different files that are not related 
+to each other.
+
+Qn-use of git log and git diff to view history of files
+usefull to know what changes have occurered in a file without 
+too much background on the projectS
+
+
+
+Qn- confidence on breaking stuff is going to be more because
+you can still revert back
+
+Qn - What happens when you initialize a repository? Why do you need to do it?
+an initailization helps to make git aware that you want the files to be tracked or 
+addded to the logs
+
+tracking of files will assist ensuring that we are in line 

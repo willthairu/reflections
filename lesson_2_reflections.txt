@@ -17,3 +17,9 @@ Ans - branches assist to work and test new ideas without affecting the original 
 Qn- How do the diagrams help you visualize the branch structure?
 Ans - diagrams help to explain the git structure of a project within a team or to
 another team member in the project.
+
+Qn - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans - the changes in the branch and the master are put in a common file 
+    - because a merge is a commit between different files thus represented that way
+
+Qn - What are the pros and cons of Git’s automatic merging vs. always doing merges manually?

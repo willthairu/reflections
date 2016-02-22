@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Ans - incases where you want to access the local work from a different location 
+    - too have a copy that you can share with collaborators
+    

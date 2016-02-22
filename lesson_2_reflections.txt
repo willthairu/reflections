@@ -5,3 +5,15 @@ the staging area is where you can take file from the working
 directory so that you can prepare them for the repository
 
 the files need to be added systematically
+
+Qn - How can you use the staging area to make sure you have one commit per logical change?
+using the fact that you can compare the various files for changes helps to ensure
+that files and commits are done in an orderly fashion and consistently
+
+Qn- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans - branches assist to work and test new ideas without affecting the original code 
+ - branches help to maintain consistency of changes in the master branch 
+
+Qn- How do the diagrams help you visualize the branch structure?
+Ans - diagrams help to explain the git structure of a project within a team or to
+another team member in the project.
